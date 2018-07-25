@@ -1,4 +1,4 @@
-# Get Old Tweets Programatically
+# AnalyzeOppositeOpinionsTwitter
 A project to:
 search and get tweets from twitter specifying search dates,
 find most commom hashtags and get analysis of two opposite opinions represented by hashtag list.
