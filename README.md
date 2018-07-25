@@ -7,7 +7,8 @@ based on a https://github.com/Jefferson-Henrique/GetOldTweets-python
 
 ## Details
 order of use:
-1. get/get_all_tweets.py. see main() to exampleof usage.
+see main() for examples of usage.
+1. get/get_all_tweets.py.
 2. find_common/plot_two_common_hashtags.py to find the most common hashtags.
 3. analyze/summary_opposite_opinions.py to see distribution of tweets for and against the topic and a plot.
 ## Prerequisites
