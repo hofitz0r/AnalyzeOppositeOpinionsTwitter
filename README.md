@@ -1,9 +1,9 @@
 # AnalyzeOppositeOpinionsTwitter
 A project to:
 search and get tweets from twitter specifying search dates,
-find most commom hashtags and get analysis of two opposite opinions represented by hashtag list.
+find most commom hashtags and get analysis of two opposite opinions represented by a hashtag list.
 
-based on a https://github.com/Jefferson-Henrique/GetOldTweets-python
+based on https://github.com/Jefferson-Henrique/GetOldTweets-python
 
 ## Details
 order of use:
